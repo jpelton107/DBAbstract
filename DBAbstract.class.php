@@ -1,4 +1,5 @@
 <?php
+//TODO: set this up so that it extends ADODB and includes db connection
 abstract class DBAbstract
 {
 	protected $table;
